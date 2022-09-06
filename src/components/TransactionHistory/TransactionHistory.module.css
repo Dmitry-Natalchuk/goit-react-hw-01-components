@@ -1,0 +1,17 @@
+   .transactionHistory {
+    width: 500px;
+    margin: 0 auto;
+    border-radius: 5px;
+    overflow: hidden;
+    background-color: rgb(33, 11, 236);
+  }
+  .title {
+    padding: 10px;
+  }
+  .line {
+    background-color: whitesmoke;
+  }
+  .value {
+    text-align: center;
+    padding: 10px;
+  }
